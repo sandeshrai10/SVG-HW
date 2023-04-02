@@ -11,6 +11,7 @@ using namespace std;
 
 class Rectangle : public SVG {
 
+
 public:
   // operator<< equivalent to write the object out
   ostream &write(ostream &out) const override;
@@ -28,4 +29,5 @@ private:
   // color of rectangle
   string color{"black"};
 };
+
 #endif

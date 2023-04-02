@@ -1,3 +1,4 @@
+
 #include "rectangle.h"
 #include <fstream>
 #include <iostream>
@@ -16,6 +17,7 @@ ostream &Rectangle::write(ostream &out) const {
 
   return out;
 }
+
 
 // operator>> equivalent to read the object contents
 istream &Rectangle::read(istream &in) {

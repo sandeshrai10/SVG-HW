@@ -77,4 +77,4 @@ Q: Additional abstract artwork as svg and png: ENTER_NUMBER
 - +1 5 interesting output files named svg1.svg, svg2.svg, ... with corresponding png files 
 = +1
 
-Q: Total points: ENTER_NUMBER = 18
+Q: Total points: ENTER_NUMBER =  18

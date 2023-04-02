@@ -3,6 +3,7 @@
 #include <iostream>
 using namespace std;
 
+
 // operator<< equivalent to write the object out
 ostream &Ellipse::write(ostream &out) const {
   out << "      <ellipse ";

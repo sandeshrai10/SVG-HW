@@ -14,6 +14,7 @@ std::ostream &Triangle::write(ostream &out) const {
   return out;
 }
 
+
 // operator>> equivalent to read the object contents
 std::istream &Triangle::read(istream &in) {
   in >> x1 >> y1 >> x2 >> y2 >> x3 >> y3 >> color;

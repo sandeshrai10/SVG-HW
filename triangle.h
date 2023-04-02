@@ -17,6 +17,7 @@ public:
   // operator>> equivalent to read the object contents
   istream &read(std::istream &in) override;
 
+
 private:
   // coordinates for the three vertices of the triangle
   int x1{0}, y1{0};

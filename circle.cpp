@@ -14,6 +14,7 @@ ostream &Circle::write(ostream &out) const {
   out << " />" << endl;
 
   return out;
+
 }
 
 // operator>> equivalent to read the object contents

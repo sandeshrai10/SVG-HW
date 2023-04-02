@@ -13,6 +13,7 @@ using namespace std;
 
 class Circle : public SVG {
 
+
 public:
   // operator<< equivalent to write the object out
   ostream &write(ostream &out) const override;

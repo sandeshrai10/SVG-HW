@@ -8,6 +8,7 @@
 
 using namespace std;
 
+
 // read inFile, return vector of SVG* objects
 vector<SVG *> readSVGFile(const string &inFile) {
   vector<SVG *> svgs;
